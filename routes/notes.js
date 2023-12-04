@@ -16,7 +16,7 @@ subTitle:'ノート2のサブタイトルです',
 bodyText:'ノート2の本文です'	
 }	,
 };
-
+ 
 
 /**
  * @returns{Object[]}data
